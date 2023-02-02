@@ -2,4 +2,3 @@ abcd
  cde
 shashank
 konade
-mern stack developer
